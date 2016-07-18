@@ -4,7 +4,7 @@ The users connecting to a web page are able to understand how many seats are fre
 Such a map represents the geometry of the room and it reﬂects the real position both of the seats and of the table.
 
 An high-level overview of this software is given by the picture below
-![architecture](https://raw.githubusercontent.com/Study-hall-monitoring/images/Architecture Diagram.png)
+![Architecture](./images/Architecture Diagram.png)
 
 ##Hardware
 The hardware chosen is a Spider Fez 2.0 (Microsoft .NET Gadgeteer platform), its task is to take a photo every n seconds and to send it to a serverTCP. 
