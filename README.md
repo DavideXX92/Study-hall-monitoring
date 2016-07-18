@@ -3,7 +3,7 @@ This project provides a service to allow people to monitor study rooms in real t
 The users connecting to a web page are able to understand how many seats are free examining a map showed by the client. 
 Such a map represents the geometry of the room and it reﬂects the real position both of the seats and of the table.
 
-An high-level overview of this software is given by the picture blow
+An high-level overview of this software is given by the picture below
 ![architecture](https://raw.githubusercontent.com/Study-hall-monitoring/images/Architecture Diagram.png)
 
 ##Gadgeteer
