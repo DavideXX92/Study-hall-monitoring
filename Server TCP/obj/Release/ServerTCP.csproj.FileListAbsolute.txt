@@ -1,0 +1,17 @@
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\obj\Release\ServerTCP.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Dropbox\Project\savePhotoETH_NEW\ServerTCP\obj\Release\ServerTCP.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\ServerTCP.exe.config
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\ServerTCP.exe
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\ServerTCP.pdb
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\Emgu.CV.UI.dll
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\Emgu.CV.UI.GL.dll
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\Emgu.CV.World.dll
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\ZedGraph.dll
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\Emgu.CV.UI.xml
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\Emgu.CV.UI.GL.xml
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\Emgu.CV.World.xml
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\obj\Release\ServerTCP.exe
+C:\Users\Davide\Dropbox\Project\savePhotoETH_NEW\ServerTCP\obj\Release\ServerTCP.pdb
+C:\Users\Giuseppe\Dropbox\Project\savePhotoETH_NEW\ServerTCP\bin\Release\ServerTCP.exe.config
+C:\Users\Giuseppe\Dropbox\Project\savePhotoETH_NEW\ServerTCP\obj\Release\ServerTCP.exe
+C:\Users\Giuseppe\Dropbox\Project\savePhotoETH_NEW\ServerTCP\obj\Release\ServerTCP.pdb

@@ -1,0 +1,225 @@
+#header{
+	width: 100%;
+	height: 25%;
+	text-align: center;
+	background-image: url("../images/banner2.jpg");
+	background-size: 100%;
+	background-color: #FFCC99;
+}
+
+#content{
+	height: 75%;
+	width: 100%;
+}
+
+#main{
+	height: 80%;
+	display:flex;
+}
+
+#roomname{
+	height: 15%;
+	width: 100%;
+	padding-left: 40px;
+	display: block;
+}
+#roomname form{
+	display: inline-block;
+}
+
+#stats{
+	height: 95%;
+	width: 25%;
+	display: inline-block;
+	margin-left: 40px;
+}
+
+#info{
+	width: 100%;
+	height: 15%;
+}
+
+#graphs{
+	height: 89%;
+	width: 100%;
+	display: inline-block;
+}
+
+#switchDiv{
+	padding-left: 32%;
+	width: 100%;
+	height: 10%;
+}
+
+#barChart{
+	width: 100%;
+	height: 90%;
+}
+
+#lineChart{
+	width: 100%;
+	height: 0%;
+	visibility: hidden;
+}
+
+
+#room{
+	height: 95%;
+	width: 60%;
+	background-color: #cfe2d1  ;
+	border-radius: 20px;
+	display: inline-block;
+	margin-left: 5%;
+}
+
+.title{
+	padding-left: 35%;
+	padding-left: 35%;
+	padding-top: 10px;
+	color: #006699;
+	font-size: 40px;
+	display: inline-block;
+}
+
+.stat{
+	padding-top: 20px;
+	padding-left: 5px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.mybtn{
+	background-color: transparent;
+	color: #428bca;
+	border-style: solid;
+	border-color: #428bca;
+	transition: all .5s;
+	border-radius: 10px;
+	font-size: 20px;
+}
+.mybtn:hover{
+	color: #fff;
+	background-color: #428bca;
+}
+
+.bg{
+	background-color: white;
+}
+
+.graphButton{
+	font-size: 15px;
+	margin-left: 3%;
+}
+
+/*CSS for BarChart*/	
+.bar {
+fill: steelblue;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+/*CSS for LineChart*/
+.data-line {
+	stroke: steelblue;
+	stroke-width: 2;
+	fill: none;
+	stroke-dasharray: 0;
+}
+
+path {
+	stroke: #eee;
+	stroke-width: 2;
+	stroke-dasharray: 0;
+	fill: none;
+}
+
+.area {
+  	fill: lightsteelblue;
+}
+
+text {
+	font-family: Arial;
+	font-size: 8pt;
+	fill: #787878;
+}
+
+line {
+	stroke: #CDCDCD;
+	stroke-width: 0.5;
+	/* stroke-dasharray: 3 3; */
+	fill: none;
+}
+
+.data-point {
+	stroke: steelblue;
+	stroke-width: 2;
+	fill: #FFF;
+}
+
+#chart {
+        margin: 0;
+}
+/*#main{
+	height: 85%;
+	width: 60%;
+	margin-left: 20%;
+}
+
+#header{
+	width: 100%;
+	height: 14%;
+	border-bottom: 1px solid black;
+	text-align: center;
+	background-image: url("../images/banner2.jpg");
+	background-size: 100% 100%;
+	background-color: #FFFFCC;
+}
+
+#stats{
+	height: 10%;
+	width: 100%;
+}
+
+#room{
+	height: 70%;
+	width: 100%;
+	background-color: #FFCC99;
+	border-radius: 20px;
+}
+
+.title{
+	font-size: 35px;
+	font-weight: bold;
+	color: red;
+	
+	margin-left: 40px;
+	float: left;
+}
+
+.stat{
+	padding-top: 10px;
+	padding-left: 5px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.bg{
+	background-color: white;
+}*/
